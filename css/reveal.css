@@ -1269,6 +1269,11 @@ body {
   direction: rtl;
   font-family: sans-serif; }
 
+.reveal .slides h1,
+.reveal .slides h2,
+.reveal .slides h3 {
+  text-align: center; }
+
 .reveal.rtl pre,
 .reveal.rtl code {
   direction: ltr; }

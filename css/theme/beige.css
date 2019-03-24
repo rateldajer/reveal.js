@@ -89,6 +89,7 @@ body {
 
 .reveal strong,
 .reveal b {
+  color: #2255cc;
   font-weight: bold; }
 
 .reveal em {

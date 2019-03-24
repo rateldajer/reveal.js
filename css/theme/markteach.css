@@ -1,0 +1,18 @@
+
+/*  font-style: italic; */
+.reveal h6 {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #5599bb;
+  font-size: .9em; }
+
+
+/* why doesn't this b entry work?*/
+.reveal b {
+  color: #aa55cc;
+  font-weight: bold; }
+
+.reveal em {
+  /*color: #aacc55;*/
+  color: #cc2255;
+  font-style: italic; }
